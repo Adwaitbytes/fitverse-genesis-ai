@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+# Fitverse Genesis AI
 
-## Project info
+**Fitverse Genesis AI** is your intelligent fitness companion — powered by the latest in Generative AI. Whether you're a beginner or a fitness pro, this platform helps you build smart, personalized workout plans, get AI-generated diet recommendations, and track progress — all in one place.
 
-**URL**: https://lovable.dev/projects/08693815-d44d-4035-b1c3-ac72b146dc4e
+## Features
 
-## How can I edit this code?
+-  **AI-Powered Plans**: Personalized fitness routines based on your goals and preferences.
+-  **Smart Diet Suggestions**: Generative AI recommends meals tailored to your body type and training.
+-  **Progress Tracking**: Visual dashboards to monitor your improvement.
+-  **Chat with Your Fitness Bot**: Ask questions and get instant AI answers.
+-  **Goal-Based Workouts**: Plans for weight loss, muscle gain, endurance, and more.
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use Lovable**
+- **Frontend**: React.js + TailwindCSS
+- **Backend**: Node.js + Express
+- **AI Engine**: OpenAI API / custom ML models
+- **Database**: MongoDB
+- **Hosting**: Vercel / Render / Netlify *(based on deployment)*
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/08693815-d44d-4035-b1c3-ac72b146dc4e) and start prompting.
+## Demo
 
-Changes made via Lovable will be committed automatically to this repo.
+https://fitverse-genesis-ai.vercel.app/
 
-**Use your preferred IDE**
+## Installation
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Clone and set up locally:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+```bash
+git clone https://github.com/Adwaitbytes/fitverse-genesis-ai.git
+cd fitverse-genesis-ai
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/08693815-d44d-4035-b1c3-ac72b146dc4e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes it is!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
